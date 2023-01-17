@@ -2,8 +2,8 @@
 This example is meant to demonstrate how to write a game for the RecBox console.
 
 ## How to run the example
-- `npm install` in the node directory
-- run control_pad_server
+- `npm install` in the `node/` directory
+- run `./control_pad_server`
 - run `node node/index.js`
 - run `./build_run.sh`
 - open a browser tab and go to https://127.0.0.1:3000
