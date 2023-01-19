@@ -2,6 +2,7 @@
 This example is meant to demonstrate how to write a game for the RecBox console.
 
 ## How to run the example
+- `mkdir /home/requin`
 - `npm install` in the `node/` directory
 - run `./control_pad_server`
 - run `node node/index.js`
