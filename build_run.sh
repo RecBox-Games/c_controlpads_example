@@ -2,5 +2,5 @@
 
 set -e
 
-gcc target.c libc_controlpads.a -o target
+gcc target.c lib/debug/libc_controlpads.a -o target
 ./target
